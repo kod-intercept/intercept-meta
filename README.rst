@@ -28,6 +28,12 @@ The following repositories are currently maintained within this organization:
   partner-specific components. This platform is designed to enhance
   collaboration and streamline data sharing across various partner networks.
 
+- ``intercept-tasks`` *(private)*
+
+  Internal task management and coordination repository for the KOD team. It
+  tracks development progress and technical planning across all INTERCEPT 
+  components.
+
 More repositories may be added in the future to cover additional adapters,
 client interfaces, testing infrastructure, and partner-specific integrations.
 
