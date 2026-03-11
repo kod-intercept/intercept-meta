@@ -21,17 +21,23 @@ The following repositories are currently maintained within this organization:
   organizational structure. This repository acts as the entry point for all
   stakeholders in the INTERCEPT ecosystem.
 
-- ``intercept-tsp-platform`` *(private/shared)*
+- ``intercept-docs`` *(private)*
 
-  Core implementation of the Threat Sharing Platform (TSP), which serves as the
-  central integration point between partners' Local MISP instance and other
-  partner-specific components. This platform is designed to enhance
+  Dedicated repository for technical documentation, deadlines, and integration
+  guides. This repository is intended for internal use by the KOD team and may
+  be shared with partners on a case-by-case basis.
+
+- ``intercept-tsp-portal`` *(private/shared)*
+
+  Core implementation of the Threat Sharing Platform (TSP) Portal, which serves
+  as the central integration point between partners' Local MISP instance and
+  other partner-specific components. This portal is designed to enhance
   collaboration and streamline data sharing across various partner networks.
 
 - ``intercept-tasks`` *(private)*
 
   Internal task management and coordination repository for the KOD team. It
-  tracks development progress and technical planning across all INTERCEPT 
+  tracks development progress and technical planning across all INTERCEPT
   components.
 
 More repositories may be added in the future to cover additional adapters,
